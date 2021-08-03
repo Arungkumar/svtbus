@@ -1,0 +1,2 @@
+authenticity_token = "yXI93PlwJsJx4iECEch+/2tlEWpdow4bv7l16rFNbrZlkVCtAKN8DSlrxu/HnO9OlNgoHUHLgw14EpC03oF+IA=="
+_ticket_simply_session = "9d5853259b107b8e3e7c2ba16e555742"
